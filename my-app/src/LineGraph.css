@@ -1,0 +1,32 @@
+.container-l{
+  max-width: 100%;
+  /*position: sticky;*/
+  margin-bottom: 400px;
+}
+.chart-heading{
+  color: purple;
+  text-align:center;
+  position: relative;
+  margin-right: auto;
+  /*background-color: #6a3b7536;*/
+
+  /*font-family: Arial, Helvetica, sans-serif;*/
+}
+.line {
+  width: 50%;
+  /*background-color: #6a3b7536;*/
+  float: left;
+  border: 2px solid purple;
+  border-radius: 8px;
+  padding: 6px;
+  background-color: #fcfcfcc2;
+}
+.bar {
+  width: 50%;
+  float: right;
+  /*background-color: #6a3b7536;*/
+  border: 2px solid purple;
+  border-radius: 8px;
+  padding: 6px;
+  background-color: #fcfcfcc2;
+}

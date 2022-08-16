@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.App1{
+    display: block;
+    width: auto;
+    height: 101vh;
+    background-image: url('../public/333.jpg');
+    
+}
+.App2{
+    background-color: white;
+}

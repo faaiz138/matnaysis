@@ -1,0 +1,36 @@
+.container-ylg{
+    max-width:100%;
+    /*position: sticky;*/
+    margin-bottom: 500px;
+  }
+  .chart-heading{
+    border-width: auto;
+    border: 2px solid purple;
+    border-radius: 8px;
+    padding:25px;
+    background-color: #6a3b7536;
+    
+
+  }
+  .chart-headinglg{
+    color: purple;
+    text-align:center;
+    position: relative;
+    margin-right: auto;
+    border: 2px solid rgb(168, 136, 168);
+    border-radius: 8px;
+    background-color: #6a3b7536;
+    padding: 5px;
+    
+  
+    /*font-family: Arial, Helvetica, sans-serif;*/
+  }
+  .linelg {
+    width: 50%;
+    float: left;
+    border: 2px solid purple;
+    border-radius: 8px;
+    padding: 4px;
+    /*background-color: #eee7f0c2;*/
+    /*background-color: #e0d2e4;*/
+  }

@@ -1,0 +1,51 @@
+[
+    {
+        "Date": 2016, 
+        "KSEPrice": 0.41, 
+        "OilPrice": 0.671, 
+        "GoldPrice": 0.183, 
+        "InterestRate": 0.022
+        }, 
+    {
+        "Date": 2017, 
+        "KSEPrice": 0.715, 
+        "OilPrice": 0.806, 
+        "GoldPrice": 0.191, 
+        "InterestRate": 0.016
+    }, 
+    {
+        "Date": 2018, 
+        "KSEPrice": 0.581, 
+        "OilPrice": 0.662, 
+        "GoldPrice": 0.26, 
+        "InterestRate": 0.18
+        }, 
+    {
+        "Date": 2019, 
+        "KSEPrice": 0.345, 
+        "OilPrice": 0.314, 
+        "GoldPrice": 0.438, 
+        "InterestRate": 0.722
+    }, 
+    {
+        "Date": 2020, 
+        "KSEPrice": 0.432, 
+        "OilPrice": 0.298, 
+        "GoldPrice": 0.687, 
+        "InterestRate": 0.344
+    }, 
+    {
+        "Date": 2021, 
+        "KSEPrice": 0.73, 
+        "OilPrice": 0.457, 
+        "GoldPrice": 0.705, 
+        "InterestRate": 0.22
+    }, 
+    {
+        "Date": 2022, 
+        "KSEPrice": 0.668, 
+        "OilPrice": 0.257, 
+        "GoldPrice": 0.874, 
+        "InterestRate": 0.694
+        }
+    ]
